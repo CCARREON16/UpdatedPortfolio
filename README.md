@@ -1,4 +1,4 @@
-Updated Portfolio
+UPDATED PORTFOLIO
 
 Your updated site should have the following content:
 
