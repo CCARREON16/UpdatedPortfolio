@@ -71,7 +71,7 @@ Submit a clear, concise and compelling resume, tailored to the type of job youâ€
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
 CHRISTOPER JAMES CARREON PORTFOLIO LINK
-https://github.com/CCARREON16/UpdatedPortfolio
+https://ccarreon16.github.io/UpdatedPortfolio/.
 
 
 - - -
