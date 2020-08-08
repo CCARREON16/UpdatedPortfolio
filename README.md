@@ -70,6 +70,9 @@ Submit a clear, concise and compelling resume, tailored to the type of job youâ€
 
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
+CHRISTOPER JAMES CARREON PORTFOLIO LINK
+https://github.com/CCARREON16/UpdatedPortfolio
+
 
 - - -
 Â© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
